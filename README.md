@@ -1,10 +1,11 @@
 ﻿# Solar System 3D Visualization
 
-An interactive 3D solar system visualization built with React, Three.js, and NASA APIs.
+A 3D interactive visualization of the solar system created using React, Three.js, and NASA APIs.
 
 ## Features
 
 - Interactive 3D solar system with realistic planet textures
+- Comprehensive information about each planet
 - NASA APOD (Astronomy Picture of the Day) integration
 - Asteroid tracking with real-time data
 - Random space facts
@@ -40,7 +41,7 @@ npm run build
 
 ## Environment Variables
 
-- `VITE_NASA_API_KEY`: Your NASA API key (required for APOD and asteroid data)
+- `VITE_NASA_API_KEY`: Your NASA API key (required to fetch data for the Live Planet Gallery, featured event section for every planet, APOD, asteroid data, and a random space fact)
 - `VITE_BASE_PATH`: Base path for deployment (defaults to "/Solar-system")
 
 ## Technologies Used
