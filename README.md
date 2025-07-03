@@ -45,7 +45,7 @@ npm run dev
 
 ## Deployment Notes
 
-If you're deploying to Netlify, Vercel, or GitHub Pages:
+If you're deploying to Netlify, Vercel etc:
 
 Set your VITE_NASA_API_KEY as an environment variable in the hosting dashboard.
 
@@ -66,4 +66,4 @@ NASA APIs
 GitHub Pages does not support securely handling environment variables, which means there's no way to use an API key without exposing it publicly.
 As a result, I deployed the project on Vercel, which allows secure environment variable management and production-ready hosting.
 
-***Thank you***
+**Thank you**
