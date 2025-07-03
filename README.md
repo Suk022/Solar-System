@@ -19,9 +19,10 @@ A 3D interactive solar system web app built with **React**, **Three.js**, and **
 
 ### 1.Clone the repository
 
-```bash
+```
 git clone <repository-url>
 cd Solar-system
+```
 
 ### 2.Install dependencies
 
