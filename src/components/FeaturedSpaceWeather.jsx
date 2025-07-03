@@ -1,0 +1,1 @@
+// File removed: all Space Weather code deleted. 
