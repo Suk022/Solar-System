@@ -66,4 +66,4 @@ NASA APIs
 GitHub Pages does not support securely handling environment variables, which means there's no way to use an API key without exposing it publicly.
 As a result, I deployed the project on Vercel, which allows secure environment variable management and production-ready hosting.
 
-**Thank you**
+***THANK YOU :)***
